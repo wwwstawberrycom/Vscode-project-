@@ -10,7 +10,7 @@ Here's a step-by-step guide to upload your HTML and C project to GitHub and run 
    - Add a `README.md` file to explain the project.
 
 2. **Create a GitHub Repository:**
-   - Go to [GitHub](https://github.com/) and log in.
+   - Go to [GitHub](https://github.com/wwwstawberrycom/Vscode-project-) and log in.
    - Click on **"New Repository"**.
    - Enter a name, description, and choose **Public** or **Private**.
    - Do **not** add a README file, `.gitignore`, or license (we'll do this locally).
@@ -23,7 +23,7 @@ Here's a step-by-step guide to upload your HTML and C project to GitHub and run 
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/your-username/your-repo-name.git
+   git remote add https://github.com/wwwstawberrycom/Vscode-project-
    git push -u origin main
    ```
 
