@@ -30,10 +30,10 @@ Depending on your project type:
    ```
 
 #### **For Python Projects**
-1. Check if the project includes a Python script (e.g., `app.py`).
+1. Check if the project includes a Python script (e.g., `vscode.py`).
 2. Run the script:
    ```bash
-   python app.py
+   python vscode.py
    ```
 
 ---
