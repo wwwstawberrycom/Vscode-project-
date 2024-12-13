@@ -18,7 +18,7 @@ Here's a step-by-step guide to upload your HTML and C project to GitHub and run 
 3. **Upload Files Locally:**
    Open a terminal and run the following commands:
    ```bash
-   cd /path/to/your/project
+   cd https://github.com/wwwstawberrycom/Vscode-project-
    git init
    git add .
    git commit -m "Initial commit"
@@ -40,8 +40,8 @@ Here's a step-by-step guide to upload your HTML and C project to GitHub and run 
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/wwwstawberrycom/Vscode-project-.git
+   cd vscode_dg
    ```
 
 ---
