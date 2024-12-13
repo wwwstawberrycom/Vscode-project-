@@ -1,4 +1,4 @@
-###stawberry comunty
+### **stawberry comunty**
 To run your GitHub project from Termux, follow these steps:
 
 ---
